@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahanur105
-- 👀 I’m interested in Android App Development & Ui/Ux Design. 
-- 🌱 I’m currently learning Android App Development.
-- 💞️ I’m looking to collaborate on Android App Development.
+- 👀 I’m interested in Web Development & Ui/Ux Design. 
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on web Development.
 - 📫 How to reach me. Facebook:https://www.facebook.com/rahanur.rahman.msc. Twitter: @RahanurRahman.
